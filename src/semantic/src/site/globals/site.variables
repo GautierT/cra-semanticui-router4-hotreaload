@@ -1,0 +1,22 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+//@blue : #2561b0;
+//@blue : #21314d;
+@violet : #21314d;
+
+@green : #01c3a7;
+@lightGreen : #01c3a7;
+
+@pageBackground : #f2f4f7;
+
+@googleFontSizes   : '100,300,400,700,400italic,700italic';
+
+
+@headerFontWeight : 400;
+
+
+@h1 : 3em;
+
+// font family des materials button modifié dans le fichiers buttons.variables du theme material
